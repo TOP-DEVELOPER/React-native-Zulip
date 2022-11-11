@@ -12,4 +12,8 @@
         // Format JS code with prettier-eslint.
         "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
+    "i18n-ally.localesPaths": [
+        "src/i18n",
+        "src/api/messages"
+    ],
 }
